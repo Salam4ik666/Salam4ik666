@@ -2,17 +2,15 @@
 
 
 ## Автар
-![avatar](amQHfHwaiq4.png)
-**Salam4ik666/Salam4ik666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![avatar](images/amQHfHwaiq4.png)
 
-Here are some ideas to get you started:
+## Коротко о себе не получится но я постараюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Я пока ни где не работаю(учусь в USM)
+- 🌱 Я изучаю HTML/CSS/JS 
+- 👯 Мои хобби это компьютерные игры(Dota2/CS/Pubg/Cyberpunk2077/The Witcher 3)
+- 🤔 Я мечтаю стать хорошим программистом и достойным человеком
+
+## Контактные данные
+email: alpodcovali@gmail.com
