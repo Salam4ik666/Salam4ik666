@@ -2,7 +2,7 @@
 
 
 ## Автар
-![avatar](amQHfHwaiq4)
+![avatar](amQHfHwaiq4.jpg)
 **Salam4ik666/Salam4ik666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
